@@ -1,5 +1,7 @@
 \documentclass[12pt]{beamer}
 \usetheme{default}
+\usetheme{Boadilla}
+
 \usepackage[utf8]{inputenc}
 \usepackage[german]{babel}
 \usepackage[T1]{fontenc}
@@ -10,11 +12,12 @@
 \usepackage{paralist}
 
 
+
 \author{Quang-Long Pham}
-\title{ \includegraphics[scale=.1]{django-logo.png}}
+\title{Webframework Django}
 %\setbeamercovered{transparent} 
 %\setbeamertemplate{navigation symbols}{} 
-\logo{} 
+%\logo{\includegraphics[scale=.05]{django-logo.png}} 
 %\institute{} 
 %\date{} 
 %\subject{} 
@@ -69,10 +72,116 @@
 	\end{itemize}
 	}
 
+
+\frame{
+	\frametitle{Wie installiere ich Django?}
+	\begin{exampleblock}
+		{Installation} \$pip install Django
+	\end{exampleblock}
+	
+	}
+	
+\frame{
+	\frametitle{Wie benutze ich Django nun?}
+		\begin{block}
+		{Vorbereitung} \$django-admin\vspace{0.3cm}\\
+		\hspace{1cm} check\\
+		\hspace{1cm} cleanup\\
+		\hspace{1cm} dumpdata\\
+		\hspace{1cm} ...\\
+		\hspace{1cm} shell\\
+		\hspace{1cm} {\bf \color{orange} {runserver}\\
+		\hspace{1cm} startproject\\
+		\hspace{1cm} startapp\\}
+		\hspace{1cm} syncdb\\
+	\end{block}
+
+	}
+	
+	\frame{
+	\frametitle{Wie starte ich nun Django?}
+
+	\begin{exampleblock}
+		{Server starten} \$ python manage.py {\bf runserver}\vspace{0.3cm}\\
+		\$ ls maddogProject\\
+		Django version x.x.x, using settings 'maddogProject.settings'\\
+		\vspace{0.3cm}Starting development server at http://127.0.0.1:8000\\
+		Quit server with CONTROL-C\\
+	\end{exampleblock} 
+	
+	}
+
+	
+	
+\frame{
+	\frametitle{Das erste Projekt erstellen}
+
+	\begin{exampleblock}
+		{Projektverzeichnis} \$ django-admin {\bf startproject maddogProject}						\vspace{0.3cm}\\
+		\$ ls maddogProject\\
+		{\bf \color{blue}maddogProject manage.py }\\
+		\vspace{0.3cm}\$ ls -l maddogProject/maddogProject\\
+		{\bf \_\_init\_\_.py\\
+		settings.py \hspace{3cm}\\
+		urls.py\\
+		wsgi.py}
+	\end{exampleblock} 
+	
+	}
+	
+
+\frame{
+	\frametitle{Und jetzt?}
+
+	\begin{exampleblock}
+		{Browseraufruf!} 
+		\includegraphics[scale=.3]{itworked.png}
+	\end{exampleblock} 
+	
+	}		
+	
+
+\frame{
+	\frametitle{Die erste Webseite erstellen}
+
+	\begin{exampleblock}
+		{Applikationsverzeichnis} \$ python manage.py {\bf startapp index}\vspace{0.3cm}\\
+		\$ ls index\\
+		{\bf \color{blue}maddogProject manage.py}\vspace{0.3cm}\\
+		\$ ls -l maddogProject/maddogProject\\
+		{\bf \_\_init\_\_.py\\
+		admin.py\\
+		models.py \hspace{3cm}\\
+		tests.py\\
+		views.py}
+	\end{exampleblock}
+	
+	}
+
+
+
 \frame{
 	\frametitle{Django ist HTTP in, HTTP out!}
 	\begin{center}
 		\includegraphics[width=0.55\textwidth]{MVC.jpg}
+	\end{center}
+	}
+
+\frame{
+	\frametitle{PyCharm}
+	\begin{center}
+	
+		\includegraphics[width=0.55\textwidth]{pycharm.png}\\
+		https://www.jetbrains.com/pycharm/
+	\end{center}
+	}
+
+\frame{
+	\frametitle{Fragen?}
+	\begin{center}
+	
+		Vielen Dank für Ihre Aufmerksamkeit!
+		
 	\end{center}
 	}
 
