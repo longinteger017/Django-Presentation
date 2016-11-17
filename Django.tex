@@ -10,8 +10,7 @@
 \usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage{paralist}
-
-
+\usepackage{marvosym} 
 
 \author{Quang-Long Pham}
 \title{Webframework Django}
@@ -78,13 +77,17 @@
 	\begin{exampleblock}
 		{Installation} \$pip install Django
 	\end{exampleblock}
+
+	\begin{block}
+		{Installation} \$pip install Django--1.9
+	\end{block}	
 	
 	}
 	
 \frame{
-	\frametitle{Wie benutze ich Django nun?}
+	\frametitle{Wie benutze ich Django?}
 		\begin{block}
-		{Vorbereitung} \$django-admin\vspace{0.3cm}\\
+		{Vorbereitung} \${\textbf {django-admin}}\vspace{0.3cm}\\
 		\hspace{1cm} check\\
 		\hspace{1cm} cleanup\\
 		\hspace{1cm} dumpdata\\
@@ -103,9 +106,8 @@
 
 	\begin{exampleblock}
 		{Server starten} \$ python manage.py {\bf runserver}\vspace{0.3cm}\\
-		\$ ls maddogProject\\
 		Django version x.x.x, using settings 'maddogProject.settings'\\
-		\vspace{0.3cm}Starting development server at http://127.0.0.1:8000\\
+		Starting development server at http://127.0.0.1:8000\\
 		Quit server with CONTROL-C\\
 	\end{exampleblock} 
 	
@@ -180,7 +182,9 @@
 	\frametitle{Fragen?}
 	\begin{center}
 	
-		Vielen Dank für Ihre Aufmerksamkeit!
+		Vielen Dank für Ihre Aufmerksamkeit!\\
+		\vspace*{\fill}
+ 		\tiny s52593@beuth-hochschule.de
 		
 	\end{center}
 	}

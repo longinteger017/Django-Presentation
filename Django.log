@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.14)  16 NOV 2016 18:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.14)  17 NOV 2016 01:26
 entering extended mode
 **./Django.tex
 (Django.tex
@@ -1094,23 +1094,27 @@ Package: paralist 2016/08/07 v2.6 Extended list environments
 \plitemsep=\skip59
 \plparsep=\skip60
 \pl@lab=\toks45
+)
+("C:\Users\longz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\marvosym\marvosym.
+sty"
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 ) (Django.aux)
 \openout1 = `Django.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1163,7 +1167,7 @@ ii"
 \everyMPtoPDFconversion=\toks47
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 23.
 
 ("C:\Users\longz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
 ty"
@@ -1175,70 +1179,70 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count160
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
  (Django.out) (Django.out)
 \@outlinefile=\write5
 \openout5 = `Django.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 24.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 23.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 24.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 24.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 24.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 24.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 24.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 24.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 24.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 24.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 24.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 24.
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 24.
+(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 24.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 24.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 24.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 24.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 23.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 23.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 24
+(Font)              `pureletters' in the math version `normal' on input line 23
 .
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 24
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 23
 .
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 24.
+(Font)              `pureletters' in the math version `bold' on input line 23.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  T1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 2
-4.
+3.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 24.
+ut line 23.
 
 ("C:\Users\longz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\base\transl
 ator\dicts\translator-basic-dictionary\translator-basic-dictionary-English.dict
@@ -1270,11 +1274,11 @@ ator\dicts\translator-theorem-dictionary\translator-theorem-dictionary-English.
 dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 24.
+LaTeX Info: Redefining \includegraphics on input line 23.
  (Django.nav)
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 28.
+(Font)              size <5> substituted on input line 27.
 
 [1
 
@@ -1284,43 +1288,43 @@ LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
 <google.jpg, id=74, 549.05125pt x 301.125pt>
 File: google.jpg Graphic file (type jpg)
  <use google.jpg>
-Package pdftex.def Info: google.jpg used on input line 61.
+Package pdftex.def Info: google.jpg used on input line 60.
 (pdftex.def)             Requested size: 109.8083pt x 60.22392pt.
 
 <firefox-logo.png, id=75, 268.00125pt x 273.02pt>
 File: firefox-logo.png Graphic file (type png)
  <use firefox-logo.png>
-Package pdftex.def Info: firefox-logo.png used on input line 61.
+Package pdftex.def Info: firefox-logo.png used on input line 60.
 (pdftex.def)             Requested size: 53.59929pt x 54.60303pt.
 
 <prezi.jpg, id=77, 270.00874pt x 160.6pt>
 File: prezi.jpg Graphic file (type jpg)
  <use prezi.jpg>
-Package pdftex.def Info: prezi.jpg used on input line 61.
+Package pdftex.def Info: prezi.jpg used on input line 60.
 (pdftex.def)             Requested size: 54.00078pt x 32.11942pt.
 
 <youtube-logo.png, id=78, 301.125pt x 301.125pt>
 File: youtube-logo.png Graphic file (type png)
  <use youtube-logo.png>
-Package pdftex.def Info: youtube-logo.png used on input line 61.
+Package pdftex.def Info: youtube-logo.png used on input line 60.
 (pdftex.def)             Requested size: 60.22392pt x 60.22392pt.
 
 <spotify-log.png, id=79, 195.73125pt x 195.73125pt>
 File: spotify-log.png Graphic file (type png)
  <use spotify-log.png>
-Package pdftex.def Info: spotify-log.png used on input line 61.
+Package pdftex.def Info: spotify-log.png used on input line 60.
 (pdftex.def)             Requested size: 58.71982pt x 58.71982pt.
 
 <pinterest-logo.png, id=80, 150.5625pt x 150.5625pt>
 File: pinterest-logo.png Graphic file (type png)
  <use pinterest-logo.png>
-Package pdftex.def Info: pinterest-logo.png used on input line 61.
+Package pdftex.def Info: pinterest-logo.png used on input line 60.
 (pdftex.def)             Requested size: 45.16908pt x 45.16908pt.
 
 <eve.png, id=81, 301.125pt x 225.84375pt>
 File: eve.png Graphic file (type png)
  <use eve.png>
-Package pdftex.def Info: eve.png used on input line 61.
+Package pdftex.def Info: eve.png used on input line 60.
 (pdftex.def)             Requested size: 60.22392pt x 45.16794pt.
  [3
 
@@ -1339,10 +1343,10 @@ ify-log.png> <./pinterest-logo.png> <./eve.png>] [4
 <itworked.png, id=256, 956.07187pt x 669.2503pt>
 File: itworked.png Graphic file (type png)
  <use itworked.png>
-Package pdftex.def Info: itworked.png used on input line 141.
+Package pdftex.def Info: itworked.png used on input line 143.
 (pdftex.def)             Requested size: 286.82378pt x 200.77664pt.
 
-Overfull \vbox (0.29675pt too high) detected at line 141
+Overfull \vbox (0.29675pt too high) detected at line 143
  []
 
 [9
@@ -1353,15 +1357,15 @@ Overfull \vbox (0.29675pt too high) detected at line 141
 File: MVC.jpg Graphic file (type jpg)
 
 <use MVC.jpg>
-Package pdftex.def Info: MVC.jpg used on input line 168.
+Package pdftex.def Info: MVC.jpg used on input line 170.
 (pdftex.def)             Requested size: 187.3836pt x 205.96227pt.
  [11
 
  <./MVC.jpg>]
-<pycharm.png, id=336, 727.71875pt x 304.13625pt>
+<pycharm.png, id=337, 727.71875pt x 304.13625pt>
 File: pycharm.png Graphic file (type png)
  <use pycharm.png>
-Package pdftex.def Info: pycharm.png used on input line 177.
+Package pdftex.def Info: pycharm.png used on input line 179.
 (pdftex.def)             Requested size: 187.3836pt x 78.31247pt.
  [12
 
@@ -1377,11 +1381,11 @@ Package pdftex.def Info: pycharm.png used on input line 177.
 \tf@snm=\write8
 \openout8 = `Django.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 197.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 197.
  (Django.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 193.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 197.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 197.
 Package rerunfilecheck Info: File `Django.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1389,13 +1393,13 @@ Package rerunfilecheck Info: File `Django.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 193.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 197.
  ) 
 Here is how much of TeX's memory you used:
- 17654 strings out of 493634
- 339201 string characters out of 3135239
- 410560 words of memory out of 3000000
- 20587 multiletter control sequences out of 15000+200000
+ 17932 strings out of 493634
+ 341774 string characters out of 3135239
+ 413344 words of memory out of 3000000
+ 20861 multiletter control sequences out of 15000+200000
  9630 words of font info for 23 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  56i,16n,63p,407b,569s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1405,9 +1409,9 @@ ec\dpi600\ecsx1200.pk> <C:\Users\longz\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \jknappen\ec\dpi600\ecss0600.pk> <C:\Users\longz\AppData\Local\MiKTeX\2.9\fonts
 \pk\ljfour\jknappen\ec\dpi600\ecss1200.pk> <C:\Users\longz\AppData\Local\MiKTeX
 \2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1728.pk>
-Output written on Django.pdf (13 pages, 611544 bytes).
+Output written on Django.pdf (13 pages, 613815 bytes).
 PDF statistics:
- 596 PDF objects out of 1000 (max. 8388607)
+ 604 PDF objects out of 1000 (max. 8388607)
  27 named destinations out of 1000 (max. 500000)
  129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
